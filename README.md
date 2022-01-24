@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedro-izecksohn
-- 👀 I’m interested in web development, back-end and front-end, and image manipulation.
-- 🌱 I’m currently learning buddhism.
+- 👀 I’m interested in web development, back-end and front-end.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on my own projects.
 - 📫 How to reach me: By phone +552134377600
 
