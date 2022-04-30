@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedro-izecksohn
-- 👀 I’m interested in web development, back-end and front-end.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in back end web development.
+- 🌱 I’m currently learning C++ and relational databases management, matters that I already know some bits.
 - 💞️ I’m looking to collaborate on my own projects.
 - 📫 How to reach me: By phone +552134377600
 
