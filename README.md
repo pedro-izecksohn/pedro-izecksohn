@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedro-izecksohn
-- 👀 I’m interested in back end web development.
-- 🌱 I’m currently learning Python and relational databases management, matters that I already know some bits.
-- 💞️ I’m looking to collaborate on my own projects.
+- 👀 I’m interested in back end web development and mind games development.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to some project to collaborate with it.
 - 📫 How to reach me: By phone +552134377600
 
 <!---
